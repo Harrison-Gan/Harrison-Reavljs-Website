@@ -1,0 +1,140 @@
+---
+title: "Harrison's MSDM Project"
+subtitle: "Proposal Presentation"
+author: "Harrison Gan "
+institute: "IBM 6400, Cal Poly Pomona"
+date: "`r Sys.Date()`"
+format: 
+  revealjs:
+    theme: serif
+    width: 1600
+    height: 900
+    footer: Harrison's MSDM Project
+    transition: slide
+    transition-speed: default
+    incremental: false
+    toc: true
+    toc-depth: 1
+    slide-number: true
+    scrollable: true
+    smaller: true
+    code-fold: false
+    code-overflow: wrap
+    number-sections: false
+    number-depth: 5
+    embed-resources: true
+    css: styles.css
+editor: visual
+execute: 
+  echo: true
+  freeze: auto
+---
+
+# Home Page
+
+## Main Purpose: A Personal Statement
+
+- My name is Harrison Gan, and I a currently a 3rd year student at Cal Poly Pomona. I am currently majoring in Real Estate and Marketing. I plan to get myself involved with the Real Estate industry and one day become a real estate developer. I believe that learning how to code data into a presentable presentation format will help me and my team understand the changing Real Estate market much more efficiently. 
+
+# Marketing Projects 
+
+## Purpose of this Page
+
+This marketing projects section will showcase my work so far in data-driven marketing and analysis. This project page will be my portfolio that demonstrates my ability to analyze marketing data. 
+
+---
+
+## Example Marketing Projects
+
+- Market Campaign Performance and Analysis
+- Customer Segmentation for Data Analysis
+- Website Traffic Analysis
+- Device Platform Website Engagement Analysis
+- Data Visualization Using Coding Techniques
+
+## Skills Gained:
+
+- **Data analysis** using R and the Tidyverse
+
+- **Data cleaning and wrangling** to prepare raw data sets
+
+- **Marketing analytics** through analyzing campaign performance
+
+- **Data visualization** to communicate insights clearly
+
+- **Dashboard creation** to track key performance metrics
+
+- **Google Analytics interpretation** to understand website traffic and user behavior
+
+- **Problem solving and decision-making** using data insights
+
+- **Communication of analytics** through reports and presentations
+
+---
+
+# Dashboard 
+
+## Purpose of the Dashboard
+
+The dashboard page will display important data and metrics in a visual and interactive format. 
+It will allow visitors to quickly understand insights from the data.
+
+## Example Dashboard Content
+
+- Website traffic trends
+- Customer engagement metrics
+- Marketing campaign performance
+- Conversion rates
+- Key performance indicators (KPIs)
+
+## Skills Demonstrated
+
+- Data visualization
+- Dashboard design
+- Data interpretation
+- Communicating insights clearly
+
+---
+
+# Revealjs Presentation
+
+## Purpose
+
+The Revealjs presentation page will include interactive presentations that explain my projects and analyses.
+
+## What It Will Include
+
+- Presentations explaining data analysis projects
+- Visual explanations of dashboards and results
+- Step-by-step storytelling of project insights
+
+## Skills Demonstrated
+
+- Technical communication
+- Data storytelling
+- Presentation design using Quarto and Revealjs
+
+---
+
+# Google Analytics
+
+## Purpose
+
+Google Analytics will be used to monitor how visitors interact with the website.
+
+## Example Metrics
+
+- Number of users
+- Website sessions
+- Engagement rate
+- Most visited pages
+- Traffic sources
+
+## Skills Demonstrated
+
+- Web analytics
+- Data interpretation
+- Performance tracking
+- Data-driven decision making
+
+
